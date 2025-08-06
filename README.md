@@ -1,24 +1,24 @@
-# CV_Example
+# CV_SebastianAvila
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Sebastian Avila Martinez
+**Profesión:** _analista y desarrollador de sofware_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 3223669218
+- **Email:** (sebastianavilacmbs7b@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Aprendiz y desarrllador de analisis de sofware
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **galerias** _(2023 - 2025)_
+- vendedor de zapatillas en galerias
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Colegio Monseñor Bernardo Sanchez** _(2017 - 2023)_
+- Bachiller Academico
 
 ## 💡 Habilidades
 - **Habilidad 1**
