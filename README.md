@@ -7,7 +7,7 @@
 ## 📞 Contacto
 - **Teléfono:** +57 3223669218
 - **Email:** (sebastianavilacmbs7b@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** (sebastian-avila-406248379)
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
@@ -21,10 +21,9 @@
 - Bachiller Academico
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
-
+- **Habilidad 1 motivacion para aprender y mejorar
+- **Habilidad 2 empatia con las personas
+- **Habilidad 3 trabajo en equipo
 ---
 
 ## 🎨 Formatos y Fuentes Disponibles
